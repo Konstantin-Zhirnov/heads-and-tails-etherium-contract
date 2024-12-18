@@ -7,3 +7,5 @@ The Hardhat library is used to deploy the contract.
 ```shell
 npx hardhat run scripts/deploy.js --network sepolia 
 ```
+
+-- You can test the game and the smart contract by following the link: https://heads-and-tails-etherium.vercel.app/
